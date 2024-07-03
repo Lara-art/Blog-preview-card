@@ -1,22 +1,24 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS"> Blog preview card on Frontend Mentor</a>.<br> Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Overview
 
 ### Screenshot
 
-![mobile](https://github.com/Lara-art/QR-code-component/assets/62111495/402e7bc3-279a-4bef-b57d-62bac3fdf5ba)<br>
+![Mobile-2challenge](https://github.com/Lara-art/Blog-preview-card/assets/62111495/daea9f90-40f9-4fc6-9d19-53432bb47875)
+<br>
 <i>Mobile Design</i>
 
 
-![Desktop](https://github.com/Lara-art/QR-code-component/assets/62111495/ba689c62-176a-435e-8690-e13278592769)<br>
+![Desktop-2challenge](https://github.com/Lara-art/Blog-preview-card/assets/62111495/fca883bf-5f25-426e-ba6f-94cb03d0f4ed)
+<br>
 <i>Desktop Design</i>
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Lara-art/QR-code-component)
+- Solution URL: [Github]([https://github.com/Lara-art/QR-code-component](https://github.com/Lara-art/Blog-preview-card))
 - Live Site URL: [Deployed](https://lara-art.github.io/QR-code-component/)
 
 ## My process
@@ -28,7 +30,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Basic CSS reset
 - Base typography settings
 - Image styling
-- Use of CSS Grid
 - Use of Flexbox
 - Mobile-first design
 
@@ -39,8 +40,10 @@ I’m really proud of this CSS code because I made it mobile responsive without 
 
 
 ```css
-h1 {
-    font-size: clamp(2.2rem, 1.986rem + 0.571vw, 2.5rem);
+.card {
+    max-width: 380px;
+    margin: auto;
+    padding: 20px;
 }
 
 .container {
@@ -53,9 +56,11 @@ h1 {
 Using place-content: center, I was able to align and justify it both vertically and horizontally.
 
 ```css
-.container {
-    display: grid;
-    place-content: center;
+body {
+    height: 100vh;
+    max-width: 1440px;
+    margin: auto;
+    padding: 2rem;
 }
 ```
 
