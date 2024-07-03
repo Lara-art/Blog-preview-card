@@ -7,12 +7,12 @@ This is my solution to the <a href="https://www.frontendmentor.io/challenges/blo
 
 ### Screenshot
 
-![Mobile-2challenge](https://github.com/Lara-art/Blog-preview-card/assets/62111495/daea9f90-40f9-4fc6-9d19-53432bb47875)
+![Mobile-2challenge](https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Mobile.PNG)
 <br>
 <i>Mobile Design</i>
 
 
-![Desktop-2challenge](https://github.com/Lara-art/Blog-preview-card/assets/62111495/fca883bf-5f25-426e-ba6f-94cb03d0f4ed)
+![Desktop-2challenge]([https://github.com/Lara-art/Blog-preview-card/assets/62111495/fca883bf-5f25-426e-ba6f-94cb03d0f4ed](https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG))
 <br>
 <i>Desktop Design</i>
 
