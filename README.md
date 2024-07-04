@@ -5,7 +5,7 @@ This is my solution to the <a href="https://www.frontendmentor.io/challenges/blo
 
 ## Overview
 
-### Screenshot
+### 💻 Screenshot
 
 <table>
   <tr>
@@ -14,14 +14,14 @@ This is my solution to the <a href="https://www.frontendmentor.io/challenges/blo
   </tr>
 </table>
 
-### Links
+### 🔗 Links
 
 - Solution URL: [Github]([https://github.com/Lara-art/QR-code-component](https://github.com/Lara-art/Blog-preview-card))
 - Live Site URL: [Deployed](https://lara-art.github.io/QR-code-component/)
 
 ## My process
 
-### Built with
+### 👩‍💻 Built with
 
 - Web font import
 - CSS custom properties
@@ -32,7 +32,7 @@ This is my solution to the <a href="https://www.frontendmentor.io/challenges/blo
 - Mobile-first design
 
 
-### What I learned
+### 📚 What I learned
 
 I’m really proud of this CSS code because I made it mobile responsive without using any @media queries.
 
@@ -63,7 +63,11 @@ body {
 ```
 
 
-## Author
+## ✨ Author
 
 - Github - [Lara](https://github.com/Lara-art)
 - Frontend Mentor - [@Lara-art](https://www.frontendmentor.io/profile/Lara-art)
+
+## 📂 Repository
+
+- All the challenges done: [Github](https://github.com/Lara-art/My-Frontend-Mentor-Repository)
