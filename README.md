@@ -44,18 +44,14 @@ I’m really proud of this CSS code because I made it mobile responsive without 
     padding: 20px;
 }
 
-.container {
-    max-width: 1440px;
-    margin: auto;
-    padding: 2rem;
-    display: grid;
-}
 ```
 Using place-content: center, I was able to align and justify it both vertically and horizontally.
 
 ```css
+
 body {
     height: 100vh;
+    place-content: center;
     max-width: 1440px;
     margin: auto;
     padding: 2rem;
