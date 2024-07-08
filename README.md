@@ -16,8 +16,8 @@ This is my solution to the <a href="https://www.frontendmentor.io/challenges/blo
 
 ### 🔗 Links
 
-- Solution URL: [Github]([https://github.com/Lara-art/QR-code-component](https://github.com/Lara-art/Blog-preview-card))
-- Live Site URL: [Deployed](https://lara-art.github.io/QR-code-component/)
+- Solution URL: [Github](https://github.com/Lara-art/Blog-preview-card)
+- Live Site URL: [Deployed](https://lara-art.github.io/Blog-preview-card/)
 
 ## My process
 
